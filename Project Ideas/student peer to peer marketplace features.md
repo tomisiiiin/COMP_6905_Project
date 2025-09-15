@@ -1,0 +1,106 @@
+﻿# Student Peer-to-Peer Marketplace
+
+## Essential Features
+### 1. User System
+- **Registration & Login**
+  - Students can register and log in, preferably using **school email authentication** 
+  - Password hashing and authentication handled by **JWT (JSON Web Token)** 
+- **User Profile**
+  - Each user has a profile containing **name, email, contact information**.
+  - Profile editing allowed through a secure interface.
+
+**Possible Technologies:**  
+- Frontend: React / Vue.js  
+- Backend: Node.js / Django / Spring Boot   
+---
+
+### 2. Item Management
+- **Post Items**
+  - Students can create listings with details: title, description, price, images, and category (e.g., books, electronics, furniture).
+- **Manage Items**
+  - Edit item details.
+  - Remove or mark items as sold.
+
+**Possible Technologies:**  
+- Database: MySQL   
+---
+
+### 3. Search and Browse
+- **Item Listings**
+  - Display all items in a marketplace view with pagination or infinite scroll.
+- **Category Filters**
+  - Filter by categories (books, electronics, furniture, etc.).
+- **Keyword Search**
+  - Search items by keywords (title, description).
+---
+
+### 4. Transaction Process
+- **Buyer-Seller Interaction**
+  - Buyers can contact sellers via chat or private messaging.
+- **Negotiation**
+  - Price discussions supported.
+- **Transaction Method**
+  - Options: in-person meet-up or online payment.
+---
+
+### 5. Basic Security
+- **Access Control**
+  - Restrict platform access to **school email domains**.
+- **Report System**
+  - Allow students to report inappropriate or fraudulent listings.
+---
+
+## Optional Features 
+These features improve usability and security but are not required for the MVP.
+
+### 1. Messaging and Notification System
+- **Chat**
+  - Real-time messaging between buyers and sellers.
+- **Notifications**
+  - Alerts for new offers, item being favorited, or completed transactions.
+---
+
+### 2. Rating and Reputation System
+- **Post-Transaction Rating**
+  - Both buyer and seller leave feedback after a transaction.
+- **Reputation Score**
+  - System calculates average rating or trust score.
+
+**Possible Technologies:**  
+- Backend: Rating stored in relational Database  
+- Frontend: React/Vue components
+---
+
+### 3. Payment Features
+- **Online Payment**
+  - School’s campus card system.
+- **Escrow Wallet**
+  - Funds temporarily held by the platform until both parties confirm completion.
+---
+
+### 4. Recommendation and Personalization
+- **Recommendation Engine**
+  - Suggest similar items based on categories or keywords.
+- **Personalized Homepage**
+  - Based on browsing history or previous transactions.
+---
+
+### 5. Mobile Support
+- **Responsive Web Design**
+  - Marketplace should adapt to mobile devices.
+- **Mobile App**
+  - Simple mobile application (React Native / Flutter).
+---
+
+##  Admin Panel
+- **Review**
+  - Admins can monitor and approve reported items.
+- **User Management**
+  - Admins can suspend or ban accounts involved in misconduct.
+- **Analytics (Optional)**
+  - Track system usage, most traded items, user growth.
+---
+
+
+
+
