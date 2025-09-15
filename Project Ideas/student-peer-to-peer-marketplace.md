@@ -15,7 +15,8 @@
 - User Rating & Review
 
 ## Product Management
-- **[Admin]** Product CRUD Operation
+- **[User]** Product CRUD Operation
+  	- Required Attributes: [Title, Description, Price, Images, Stock, Status]
 - **[User]** Add to Cart
 - **[User]** Product Purchase
 - **[User]** Private Product Listing
