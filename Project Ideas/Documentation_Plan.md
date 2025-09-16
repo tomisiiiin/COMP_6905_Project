@@ -48,20 +48,22 @@ Think about what problem each project solves
 
 
 
-Week	Dates	Sprint Goal / Process	Timeline / Milestone	Status
-1	Sept 8 – 12	Brainstorm project ideas, evaluate feasibility, pick final idea.		
-2	Sept 15 – 19	Define requirements (user stories, acceptance criteria). Start backlog creation.		
-3	Sept 22 – 26	Refine backlog, finalize scope, outline architecture. Plan how the project will look (rough sketch / diagram).	📌 Project Proposal due Sept. 28	
-4	Sept 29 – Oct 3	Sprint 1: Set up dev environment (GitHub), version control, and skeleton code.		
-5	Oct 6 – 10	Sprint 2: Implement core features (MVP version). Start coding the most important function.		
-6	Oct 13 – 17	Sprint 3: Continue core feature dev. Write unit tests. Add more core features.		
-7	Oct 20 – 24	Sprint 4: Integrate features, ensure basic workflow works. Make sure all features work together (not just alone).	📌 Progress Report due Oct. 26	
-8	Oct 27 – 31	Sprint 5: Add secondary features, improve UI/UX. Improve app/web stability.		
-9	Nov 3 – 7	Sprint 6: Optimize functionality, refine based on feedback. Error handling		
-10	Nov 10 – 14	Sprint 7: Perform integration testing & bug fixing.		
-11	Nov 17 – 21	Sprint 8: Documentation (user manual, technical docs). Write user instructions (how to use the app). Write developer notes (how the code works).		
-12	Nov 24 – 28	Sprint 9: Final polish, usability testing, prepare final presentation.		
-13	Dec 1 – 5	Sprint 10: Submit & present Final Project.	📌 Final project due end of week	
+| Week | Dates         | Sprint Goal / Process                                                                 | Timeline / Milestone                  | Status |
+|------|---------------|----------------------------------------------------------------------------------------|----------------------------------------|--------|
+| 1    | Sept 8 – 12   | Brainstorm project ideas, evaluate feasibility, pick final idea.                      |                                        |        |
+| 2    | Sept 15 – 19  | Define requirements (user stories, acceptance criteria). Start backlog creation.       |                                        |        |
+| 3    | Sept 22 – 26  | Refine backlog, finalize scope, outline architecture. Plan how the project will look. | 📌 Project Proposal due Sept. 28       |        |
+| 4    | Sept 29 – Oct 3 | Sprint 1: Set up dev environment (GitHub), version control, and skeleton code.       |                                        |        |
+| 5    | Oct 6 – 10    | Sprint 2: Implement core features (MVP version). Start coding the most important function. |                                   |        |
+| 6    | Oct 13 – 17   | Sprint 3: Continue core feature dev. Write unit tests. Add more core features.        |                                        |        |
+| 7    | Oct 20 – 24   | Sprint 4: Integrate features, ensure basic workflow works.                            | 📌 Progress Report due Oct. 26         |        |
+| 8    | Oct 27 – 31   | Sprint 5: Add secondary features, improve UI/UX. Improve app/web stability.           |                                        |        |
+| 9    | Nov 3 – 7     | Sprint 6: Optimize functionality, refine based on feedback. Error handling.           |                                        |        |
+| 10   | Nov 10 – 14   | Sprint 7: Perform integration testing & bug fixing.                                   |                                        |        |
+| 11   | Nov 17 – 21   | Sprint 8: Documentation (user manual, technical docs). Write user & developer notes.  |                                        |        |
+| 12   | Nov 24 – 28   | Sprint 9: Final polish, usability testing, prepare final presentation.                 |                                        |        |
+| 13   | Dec 1 – 5     | Sprint 10: Submit & present Final Project.                                            | 📌 Final project due end of week       |        |
+
 
 
 Weeks 1–3: Planning → Weeks 4–7: Core building → Weeks 8–10: Improvements → Weeks 11–12: Final polish → Week 13: Submission.
