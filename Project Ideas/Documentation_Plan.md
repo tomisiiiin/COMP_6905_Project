@@ -67,7 +67,45 @@ Week	Dates	Sprint Goal / Process	Timeline / Milestone	Status
 Weeks 1–3: Planning → Weeks 4–7: Core building → Weeks 8–10: Improvements → Weeks 11–12: Final polish → Week 13: Submission.
 
 
+09/16
+RECAP OF TODAY'S MEETING
+Why this project & problem we are trying to solve?
+Doing this for students only, to encourage students to buy and sell for each other at cheaper (affordable) prices
+The website is more designed for students 
+Reduces the level of scam because it’s a closed system within the student community 
 
+Aim of the project?
+Implement an authentic marketplace for the student community (MUN email & ID)
+
+Other similar products?
+- Facebook marketplace 
+
+System design? 
+-	Flow chart  (draw.io)
+
+Testing approach?
+-	QA testing
+-	Junit – Unit Testing 
+
+For the proposal, we select the core features to present 
+Core features (MVP)
+-	Authentication & login
+-	CRUD operations
+-	Search, Filter & categorise items
+-	Transaction history, purchase & Payment 
+-	Admin functions
+
+Other features to be implemented later
+-	Auction
+-	Delivery 
+-	Recommendations of other similar products
+-	Reviews & Ratings
+-	Private marketplace 
+
+Tools update
+Frontend –Next JS, Tailwind CSS
+Backend - Node JS
+Database – MongoDB (everyone can see) instead of MySQL (everyone has to host it locally to see it).
 
 
 
