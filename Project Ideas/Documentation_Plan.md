@@ -109,7 +109,10 @@ Frontend –Next JS, Tailwind CSS
 Backend - Node JS
 Database – MongoDB (everyone can see) instead of MySQL (everyone has to host it locally to see it).
 
-
+09/18
+RECAP OF TODAY'S MEETING
+We worked on the project proposal to be submitted tomorrow.
+We changed the name of the project from Student Peer-to-Peer Marketplace to Student TradeHub.
 
 
 
