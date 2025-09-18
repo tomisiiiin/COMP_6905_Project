@@ -113,6 +113,7 @@ Database – MongoDB (everyone can see) instead of MySQL (everyone has to host i
 RECAP OF TODAY'S MEETING
 We worked on the project proposal to be submitted tomorrow.
 We changed the name of the project from Student Peer-to-Peer Marketplace to Student TradeHub.
+Anya designed a flowchart to be used for the system design.
 
 
 
